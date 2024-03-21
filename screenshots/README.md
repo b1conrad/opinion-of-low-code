@@ -1,6 +1,9 @@
 # Screenshots
 
-Some screenshots from a Mendix application
+Some screenshots from a Mendix application are in this folder.
+Here is the crux of the decision being made, in a Mendix microflow:
+
+![microflow](https://b1conrad.github.io/opinion-of-low-code/screenshots/SubMicroflow.png)
 
 Compare all of that with this code:
 ```
