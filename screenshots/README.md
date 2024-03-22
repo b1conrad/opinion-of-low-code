@@ -39,14 +39,17 @@ For completeness here is the expression for the decision about partially cloudy:
 As the sub-microflow shows, it is easy to get a high-level overview.
 
 However, the actual logic is hidden. Double-clicking on a decision losange will pop up a modal window showing the actual expression being tested.
-Notice that the expression is code -- hence Mendix is a "low code" rather than "no code" system.
+Notice that the expression is code – hence Mendix is a "low code" rather than "no code" system.
 
-Sadly this means that you can only look at one decision at a time. This puts a great deal of stress on the programmer's short term memory!
+Sadly the fact that the logic appears in a modal dialog box means that you can only look at one decision at a time. 
+This demands a great deal of the programmer's short term memory!
 
-Another down side is that the logic is spread over two microflows, an enumeration definition, and pop-up windows for each item in each microflow.
+Another down-side is that the logic is spread over two microflows, an enumeration definition, and pop-up windows for each item in each microflow.
 There is no way to see it all at once.
 
 ## High code comparison
+
+With code, you get the best of both worlds, and I believe — at least for a touch-typist — more quickly.
 
 Compare all of that with this function:
 ```
