@@ -24,7 +24,7 @@ The first decision point seems wrong somehow! Is there snow? If not, it is snowi
 
 Examining the actual logic (as opposed to the label that fits in the losange), we see that, oh, the question really is "Can we rule out snow?" abbreviated to the last word of the question!
 
-Then everything flows along, until "Partial?" which on inspection would mean "Can we rule out partial cloudiness?" If we cannot (the `FALSE` branch) then it is "Rainy". No, that can't be right! This appears to be ~~a typo~~ actually a missed selection from a popup list of the enumeration (because in alphabetic order, PartialCloudy and Rainy are next-door neighbors (as they are in real life, to be fair)).
+Then everything flows along, until "Partial?" which on inspection would mean "Can we rule out partial cloudiness?" If we cannot (the `false` branch) then it is "Rainy". No, that can't be right! This appears to be ~~a typo~~ actually a missed selection from a popup list of the enumeration (because in alphabetic order, PartialCloudy and Rainy are next-door neighbors (as they are in real life, to be fair)).
 
 Here is the enumeration:
 
