@@ -12,7 +12,7 @@ There is a microflow that determines an icon to represent the general weather of
 
 ![microflow](https://b1conrad.github.io/opinion-of-low-code/screenshots/Microflow.png)
 
-Here is the crux of the decision being made, in the Mendix microflow named `SUB_Generate_Weather_Type`:
+Here is the crux of the decision being made, in the Mendix microflow named `SUB_GenerateWeatherType`:
 
 ![submicroflow](https://b1conrad.github.io/opinion-of-low-code/screenshots/SubMicroflow.png)
 
